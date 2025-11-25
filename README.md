@@ -1,6 +1,7 @@
 # Intrusion-detection-systems-compared-on-DrDOS_DNS-dataset
 
 These are the steps to run the project or to view it.
+
 Step 1: Load the Dataset:
 1.	Ensure the dataset used in the notebook is available on your local system. You can download the dataset from kaggle using this link:  https://www.kaggle.com/datasets/williamson5/nsl-kdd-dataset
 2.	The dataset should be uploaded manually to the Colab environment before running the relevant code cells.
